@@ -1,0 +1,30 @@
+body{
+  background-color:	rgb(231, 218, 176)
+}
+.welcome {
+  font-family: "Brush Script MT",cursive;
+  color: #0A0A69;
+  text-align: center;
+}
+.instructions {
+  font-family: "Monaco",monospace;
+  color:#5963F3;
+  text-align: center;
+}
+
+form{
+  border-style:hidden;
+  padding-left: 50px;
+}
+
+.about {
+  font-family: "Monaco", monospace;
+  color: aqua
+}
+
+.construction {
+  color:rgb(204, 82, 0);
+  font-family: "Georgia",serif;
+  text-align: center;
+  
+}
