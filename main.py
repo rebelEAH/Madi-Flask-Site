@@ -8,7 +8,7 @@ web_site = Flask(__name__)
 def about():
     foodList = [
         'mac and cheese', 'burgers', 'ice cream, obvi', 'pizza', 'brownies',
-        'cookies'
+        'cookies', "Froyo at Yo So Cool"
     ]
     food = random.choice(foodList)
 
